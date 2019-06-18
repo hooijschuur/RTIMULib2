@@ -1,3 +1,6 @@
+selecting ATOMIC pi imu
+
+
 # RTIMULib2 - a versatile C++ and Python 9-dof, 10-dof and 11-dof IMU library
 
 RTIMULib2 is the simplest way to connect a 9-dof, 10-dof or 11-dof IMU to an embedded Linux system and obtain RTQF or Kalman-filtered quaternion or Euler angle pose data. Basically, two simple function calls (IMUInit() and IMURead()) are pretty much all that's needed to integrate RTIMULib2.
